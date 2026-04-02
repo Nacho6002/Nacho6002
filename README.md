@@ -1,28 +1,28 @@
-# Hi, I'm Ignacio 👋
+# Hola, soy Ignacio 👋
 
-I'm a student of **Multiplatform Application Development (DAM)** based in **Madrid, Spain**.
+Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en **Madrid, España**.
 
-## About me
-- 🎓 Currently studying DAM
-- 💼 Doing professional internships in the technology field
-- 💻 Interested in software development, Java, databases, Linux and systems
-- 🚀 Building academic and personal projects to keep improving
+## Sobre mí
+- 🎓 Actualmente estoy estudiando DAM
+- 💼 Estoy realizando prácticas en el área tecnológica
+- 💻 Me interesa el desarrollo de software, Java, bases de datos, Linux y sistemas
+- 🚀 Sigo mejorando a través de proyectos académicos y personales
 
-## Technologies and tools
+## Tecnologías y herramientas
 - Java
 - SQL
 - Linux
-- Git & GitHub
-- Object-Oriented Programming
-- Databases
-- Networking basics
+- Git y GitHub
+- Programación orientada a objetos
+- Bases de datos
+- Redes
 
-## Featured repositories
-Here you can find some of my academic and practice projects related to:
-- Interfaces
-- Access to Data
-- Processes and Services
-- Mobile and multimedia programming
+## Repositorios destacados
+Aquí comparto algunos proyectos académicos y prácticas relacionados con:
+- Desarrollo de interfaces
+- Acceso a datos
+- Procesos y servicios
+- Programación multimedia y dispositivos móviles
 
-## Goals
-My goal is to continue learning, improve my technical skills and grow professionally in the technology sector.
+## Objetivo
+Seguir aprendiendo, mejorar mis habilidades técnicas y crecer profesionalmente dentro del sector tecnológico.
