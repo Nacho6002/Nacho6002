@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Ignacio 👋
 
-<!--
-**Nacho6002/Nacho6002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student of **Multiplatform Application Development (DAM)** based in **Madrid, Spain**.
 
-Here are some ideas to get you started:
+## About me
+- 🎓 Currently studying DAM
+- 💼 Doing professional internships in the technology field
+- 💻 Interested in software development, Java, databases, Linux and systems
+- 🚀 Building academic and personal projects to keep improving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies and tools
+- Java
+- SQL
+- Linux
+- Git & GitHub
+- Object-Oriented Programming
+- Databases
+- Networking basics
+
+## Featured repositories
+Here you can find some of my academic and practice projects related to:
+- Interfaces
+- Access to Data
+- Processes and Services
+- Mobile and multimedia programming
+
+## Goals
+My goal is to continue learning, improve my technical skills and grow professionally in the technology sector.
