@@ -1,0 +1,44 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#EAF2FF"/>
+    </linearGradient>
+
+    <linearGradient id="mStroke" x1="18" y1="22" x2="46" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4285F4"/>
+      <stop offset="0.28" stop-color="#7C3AED"/>
+      <stop offset="0.58" stop-color="#EA4335"/>
+      <stop offset="0.80" stop-color="#FBBC05"/>
+      <stop offset="1" stop-color="#34A853"/>
+    </linearGradient>
+
+    <filter id="shadow" x="2" y="3" width="60" height="60" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#60A5FA" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#shadow)">
+    <rect width="64" height="64" rx="18" fill="url(#bg)"/>
+    <rect x="14" y="14" width="36" height="36" rx="10" fill="#FFFFFF"/>
+
+    <!-- M continua -->
+    <path
+      d="M18 41V23L32 34L46 23V41"
+      stroke="url(#mStroke)"
+      stroke-width="5"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+
+    <!-- Refuerzo interior sutil -->
+    <path
+      d="M20.5 24.5L32 33L43.5 24.5"
+      stroke="#FFFFFF"
+      stroke-opacity="0.55"
+      stroke-width="1.4"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+  </g>
+</svg>
