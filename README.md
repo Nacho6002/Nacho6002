@@ -5,97 +5,91 @@
 <h1 align="center">Ignacio Villacis Quishpe</h1>
 
 <p align="center">
-  <strong>Desarrollo de Aplicaciones Multiplataforma (DAM)</strong><br>
-  Madrid, España · Java · Bases de datos · Linux · Sistemas
+  <strong>DAM Student · Backend · Data · Systems</strong><br>
+  Madrid, España
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DAM-Estudiante-orange?style=for-the-badge" alt="DAM" />
-  <img src="https://img.shields.io/badge/Prácticas-Área_tecnológica-success?style=for-the-badge" alt="Prácticas" />
-  <img src="https://img.shields.io/badge/Enfoque-Backend%20%7C%20Datos%20%7C%20Sistemas-blueviolet?style=for-the-badge" alt="Enfoque" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </p>
 
 ---
 
 ## Perfil
 
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con experiencia académica y práctica en **desarrollo de software**, **bases de datos**, **Linux**, **sistemas**, **soporte técnico** e integración de servicios.
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con experiencia académica y práctica en **desarrollo de software**, **bases de datos**, **Linux**, **sistemas** e **integración de servicios**.
 
-Actualmente estoy realizando **prácticas en el área tecnológica**, mientras sigo construyendo un portafolio con proyectos que reflejan mi evolución en backend, persistencia, aplicaciones de escritorio, desarrollo móvil, videojuegos y lógica de sistemas.
-
----
-
-## Stack principal
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-</p>
-
-### Tecnologías y áreas en las que sigo creciendo
-- Programación orientada a objetos
-- JDBC y acceso a datos
-- JPA / Hibernate
-- diseño de bases de datos
-- consumo de APIs REST
-- desarrollo Android
-- Spring Boot
-- redes y administración básica de sistemas
-- VoIP, Asterisk y servicios de comunicaciones
-- integración de servicios con PHP y paneles internos
+Actualmente estoy realizando **prácticas en el área tecnológica** y construyendo un portafolio centrado en backend, persistencia, aplicaciones de escritorio, desarrollo móvil, servicios e integración técnica.
 
 ---
 
-## En lo que estoy trabajando
+## Enfoque actual
 
-- reforzando mi base en **Java**, **bases de datos** y **backend**
-- mejorando la documentación y presentación de mis proyectos
-- trabajando en entornos de **sistemas y comunicaciones**
-- configurando servicios como **Asterisk**
-- desarrollando herramientas auxiliares en **PHP** para administración y consulta de información técnica
-- construyendo un perfil técnico junior sólido y ordenado
+| Área | En qué estoy trabajando |
+|---|---|
+| **Backend** | Java, APIs REST, Spring Boot, lógica de servicios |
+| **Datos** | JDBC, JPA / Hibernate, MySQL, diseño de bases de datos |
+| **Sistemas** | Linux, redes, administración básica, soporte técnico |
+| **Comunicaciones** | VoIP, Asterisk, servicios e integración |
+| **Herramientas** | Git, GitHub, Docker, Postman, Android Studio |
 
 ---
 
 ## Proyectos destacados
 
-### Acceso a Datos
+### 🗄️ Acceso a Datos
 - **Agenda de Amigos** → Java, Swing, JDBC y MySQL
 - **Gestión de Institutos** → Java, JPA / Hibernate y MySQL en Docker
 
-### Servicios y Procesos
+### ⚙️ Servicios y Procesos
 - **Servicio REST con FTP y Email** → Spring Boot, Docker, FTP, Postman y correo
 
-### Desarrollo móvil
+### 📱 Desarrollo móvil
 - **Weather App Android** → Java, Room, Retrofit, LiveData, ViewModel y Glide
 
-### Videojuegos
+### 🎮 Videojuegos
 - **Insect Smasher** → Godot, GDScript, niveles, puntuación y progresión de dificultad
 
 ---
 
-## Forma de trabajar
+## Stack y herramientas
 
 <p>
-  <img src="https://img.shields.io/badge/Aprendizaje-Continuo-7c3aed?style=for-the-badge" alt="Aprendizaje continuo" />
-  <img src="https://img.shields.io/badge/Resolución_de_problemas-2563eb?style=for-the-badge" alt="Resolución de problemas" />
-  <img src="https://img.shields.io/badge/Trabajo_en_equipo-16a34a?style=for-the-badge" alt="Trabajo en equipo" />
-  <img src="https://img.shields.io/badge/Adaptabilidad-f97316?style=for-the-badge" alt="Adaptabilidad" />
+  <img src="https://img.shields.io/badge/JDBC-2563eb?style=flat-square" alt="JDBC" />
+  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat-square" alt="JPA Hibernate" />
+  <img src="https://img.shields.io/badge/SQL-334155?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Asterisk-0f172a?style=flat-square" alt="Asterisk" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white" alt="Godot" />
 </p>
 
-Me interesa construir proyectos que no solo funcionen, sino que también estén **bien organizados, documentados y presentados**, con una base técnica sólida y una evolución visible.
+<details>
+  <summary><strong>Más sobre mi perfil técnico</strong></summary>
+
+  <br>
+
+  - Programación orientada a objetos
+  - consumo de APIs REST
+  - desarrollo Android
+  - documentación y presentación de proyectos
+  - redes y administración básica de sistemas
+  - integración de servicios con PHP y paneles internos
+  - configuración de servicios como Asterisk
+</details>
 
 ---
 
 ## Objetivo
 
-Seguir creciendo dentro del sector tecnológico como perfil junior, combinando formación, práctica y proyectos que reflejen una base cada vez más fuerte en desarrollo, datos y sistemas.
+Seguir creciendo como perfil junior en desarrollo, datos y sistemas, combinando formación, práctica y proyectos bien documentados.
 
 ---
 
