@@ -4,130 +4,158 @@
 
 <p align="center">
   <a href="https://github.com/Nacho6002">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00FFFF&center=true&vCenter=true&width=900&lines=DAM+Student+%C2%B7+Backend+%C2%B7+Data+%C2%B7+Linux;Technical+Intern+%C2%B7+Systems+%C2%B7+VoIP+%C2%B7+PHP+APIs;Building+Android+Apps+with+Firebase" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ignacio-daniel-villacis-quishpe-843951318/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ver%20Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tu-correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Nacho6002?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Repositorios-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1400&color=00F0FF&center=true&vCenter=true&width=920&lines=Ignacio+Villacis;DAM+%C2%B7+Backend+%C2%B7+Bases+de+datos+%C2%B7+Linux;Java+%C2%B7+Android+%C2%B7+Firebase+%C2%B7+Sistemas;Construyendo+proyectos+reales+durante+el+ciclo+DAM" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## ⚡ Sobre mí
+<h2 align="center">⚡ Sobre mí</h2>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td width="65%" valign="top">
-      <p>Soy estudiante de <b>Desarrollo de Aplicaciones Multiplataforma (DAM)</b> en Madrid, con un enfoque cada vez más fuerte en la arquitectura <b>backend</b>, <b>bases de datos</b> y la administración de <b>sistemas Linux</b>.</p>
-      <p>Actualmente compagino mi formación académica con prácticas reales en <b>Ciser System S.L.</b>, trabajando en entornos de <b>sistemas</b>, <b>comunicaciones VoIP (Asterisk)</b> e integración de servicios mediante <b>APIs en PHP</b>.</p>
-      <p>Además, estoy desarrollando mi Trabajo de Fin de Grado (TFG), <b>"Antigravity"</b>: una aplicación nativa Android integrada con <b>Firebase</b> para la gestión de servicios en tiempo real y persistencia en la nube.</p>
-    </td>
-    <td width="35%" valign="top">
-      <b>🎯 Áreas principales:</b><br><br>
-      • Backend Development<br>
-      • Database Modeling<br>
-      • Linux Administration<br>
-      • API Integration<br>
-      • Systems Infrastructure<br>
-      • Android + Cloud
-    </td>
+    <td width="62%" valign="top" align="center">
+
+<p align="center">
+Soy estudiante de <b>Desarrollo de Aplicaciones Multiplataforma (DAM)</b> y estoy construyendo un perfil técnico orientado a <b>backend</b>, <b>bases de datos</b>, <b>Linux</b> e <b>integración de servicios</b>.
+</p>
+
+<p align="center">
+A lo largo del ciclo he trabajado en proyectos de <b>Java</b>, <b>Android</b>, <b>modelado de datos</b>, <b>APIs</b> y <b>sistemas</b>, intentando que cada repositorio refleje evolución real, buena estructura y una presentación cada vez más profesional.
+</p>
+
+<p align="center">
+Actualmente, uno de mis proyectos más importantes es <b>StreetHunter</b>, un TFG desarrollado en equipo: una aplicación Android nativa orientada a la exploración urbana gamificada con <b>Firebase</b>, <b>Google Maps</b> y validación por <b>GPS</b>. 
+</p>
+
+</td>
+    <td width="38%" valign="top" align="center">
+
+### 🎯 Enfoque actual
+
+<p align="center">
+Backend<br>
+Bases de datos<br>
+Linux<br>
+APIs<br>
+Android<br>
+Sistemas
+</p>
+
+</td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Tech Stack
+<h2 align="center">🚀 Stack tecnológico</h2>
 
-### 💻 Desarrollo y Datos
+### <p align="center">💻 Desarrollo y datos</p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,php,firebase,html,css,c&perline=8" alt="Stack de Desarrollo" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,php,firebase,html,css,c&perline=8" alt="Desarrollo y datos" />
 </p>
 
-### 🛠️ Sistemas y DevOps
+### <p align="center">🛠️ Sistemas y herramientas</p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,bash&perline=8" alt="Stack de Sistemas" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,bash,git,github&perline=7" alt="Sistemas y herramientas" />
 </p>
 
-### 🔧 Herramientas de Trabajo
+### <p align="center">🧰 Entornos y software</p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,godot&perline=8" alt="Herramientas" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,godot&perline=4" alt="Entornos y software" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VoIP-Asterisk-111827?style=for-the-badge&logo=asterisk&logoColor=white" alt="Asterisk" />
-  <img src="https://img.shields.io/badge/VPS-IONOS-003399?style=for-the-badge" alt="IONOS" />
-  <img src="https://img.shields.io/badge/Enfoque-Backend_%26_Sistemas-0f172a?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/VoIP-Asterisk-20263A?style=for-the-badge&logo=asterisk&logoColor=white" alt="Asterisk" />
+  <img src="https://img.shields.io/badge/VPS-IONOS-0A4FFF?style=for-the-badge" alt="IONOS" />
+  <img src="https://img.shields.io/badge/Enfoque-Backend%20%26%20Sistemas-111827?style=for-the-badge" alt="Enfoque" />
 </p>
 
 ---
 
-## 🏆 Proyectos Destacados
+<h2 align="center">🏆 Proyectos destacados</h2>
 
-<table align="center">
+<p align="center">
+Proyectos desarrollados a lo largo del ciclo <b>DAM</b>, seleccionados por ser los que mejor representan mi evolución técnica.
+</p>
+
+<table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>🚀 <a href="https://github.com/Nacho6002/DAM-II-Procesos-y-Servicios">Servicio REST FTP/Mail</a></h3>
-      <p>Microservicio backend para automatizar la transferencia de archivos y el envío de reportes por correo.</p>
-      <p><b>Tech:</b> Java · Spring Boot · Docker · FTP · JavaMail</p>
+      <p>Microservicio backend centrado en transferencia de archivos y envío automatizado de correos.</p>
+      <p><b>Tecnologías:</b> Java · Spring Boot · Docker · FTP · JavaMail</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>🏫 <a href="https://github.com/Nacho6002/DAM-II---Acceso-a-Datos">Gestión de Institutos</a></h3>
-      <p>Sistema académico robusto centrado en la persistencia de datos y el modelado relacional complejo.</p>
-      <p><b>Tech:</b> Java · JPA / Hibernate · MySQL · Docker</p>
+      <p>Proyecto académico orientado a persistencia, entidades, relaciones y modelado relacional con JPA/Hibernate.</p>
+      <p><b>Tecnologías:</b> Java · JPA / Hibernate · MySQL · Docker</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>🌤️ <a href="https://github.com/Nacho6002/DAM-II-Programacion-multimedia-y-dispositivos-moviles">Weather App Android</a></h3>
-      <p>Aplicación móvil nativa con consumo asíncrono de API externa y almacenamiento de datos locales.</p>
-      <p><b>Tech:</b> Android SDK · Retrofit · Room · LiveData</p>
+      <p>Aplicación móvil con consumo de API externa, persistencia local y arquitectura Android basada en componentes.</p>
+      <p><b>Tecnologías:</b> Android · Retrofit · Room · LiveData</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3>👾 <a href="https://github.com/Nacho6002/DAM-II-Programacion-de-Videojuegos">Insect Smasher</a></h3>
-      <p>Videojuego arcade 2D enfocado en la lógica de colisiones, gestión de estados y progresión de niveles.</p>
-      <p><b>Tech:</b> Godot Engine · GDScript</p>
+      <p>Videojuego arcade 2D centrado en lógica de juego, progresión, colisiones y gestión de estados en Godot.</p>
+      <p><b>Tecnologías:</b> Godot · GDScript</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧠 Perfil Técnico y Objetivos
+<h2 align="center">🧠 Perfil técnico</h2>
 
-<details>
-  <summary><b>Haz clic para ver más sobre mi evolución</b></summary>
-  <br>
-  <ul>
-    <li>🎓 <b>Formación:</b> Finalizando DAM con sólidos conocimientos en Programación Orientada a Objetos.</li>
-    <li>⚙️ <b>Enfoque Actual:</b> Profundizando en la arquitectura de backend, diseño de bases de datos y administración de servidores Linux.</li>
-    <li>🔧 <b>Experiencia Práctica:</b> Aplicando conocimientos en despliegues reales, configuración de Asterisk, creación de APIs en PHP y automatización de tareas.</li>
-    <li>📚 <b>Filosofía de Código:</b> Construyendo un portfolio técnico limpio, priorizando la calidad del código, la seguridad y una documentación clara (READMEs estructurados).</li>
-    <li>🚀 <b>Próximos Pasos:</b> Seguir escalando mis habilidades en la integración de servicios cloud y arquitecturas modernas.</li>
-  </ul>
-</details>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><b>Formación</b></td>
+    <td align="center">Finalizando DAM y reforzando una base técnica centrada en software, datos y sistemas.</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Intereses</b></td>
+    <td align="center">Backend, bases de datos, Linux, integración de APIs, Android y documentación técnica.</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Forma de trabajar</b></td>
+    <td align="center">Priorizo proyectos bien estructurados, repositorios limpios y READMEs claros y visuales.</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Objetivo</b></td>
+    <td align="center">Seguir creciendo como perfil junior sólido en desarrollo backend, datos y sistemas.</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-## 🤝 Contacto
+<h2 align="center">🌌 Proyecto actual</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ignacio-daniel-villacis-quishpe-843951318/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar%20con%20Ignacio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<b>StreetHunter</b> es mi proyecto final de DAM, desarrollado en equipo.
+</p>
+
+<p align="center">
+Se trata de una aplicación Android nativa gamificada para explorar Vallecas mediante mapa interactivo, zonas de búsqueda, validación por geolocalización, retos tipo quiz y ranking global.
+</p>
+
+<p align="center">
+<b>Base técnica:</b> Java · Firebase Authentication · Cloud Firestore · Google Maps · GPS / Geofencing
+</p>
+
+---
+
+<h2 align="center">🤝 Contacto</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ignacio-daniel-villacis-quishpe-843951318/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:tu-correo@ejemplo.com">
     <img src="https://img.shields.io/badge/Email-Escr%C3%ADbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -137,5 +165,5 @@
 ---
 
 <p align="center">
-  <i>"Construyendo proyectos reales mientras sigo creciendo en backend, datos y sistemas."</i>
+  <i>“Construyendo una base sólida en backend, datos, Android y sistemas paso a paso.”</i>
 </p>
