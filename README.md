@@ -130,20 +130,14 @@ Selección de proyectos desarrollados a lo largo de <b>DAM</b> y elegidos por se
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ignacio-daniel-villacis-quishpe-843951318/">
-    <img src="assets/linkedin-contact.svg" alt="LinkedIn" width="52" />
+    <img src="assets/linkedin-contact.svg" alt="LinkedIn" width="54" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ivillacis6002@gmail.com">
-    <img src="assets/gmail-contact.svg" alt="Gmail" width="52" />
+    <img src="assets/gmail-contact.svg" alt="Gmail" width="54" />
   </a>
 </p>
 
 <p align="center">
   <code>ivillacis6002@gmail.com</code>
-</p>
-
----
-
-<p align="center">
-  <i>“Construyendo una base sólida en backend, datos, Android y sistemas.”</i>
 </p>
