@@ -2,7 +2,7 @@
   <img src="assets/banner-profile.png" alt="Banner de Ignacio Villacis" />
 </p>
 
-<h1 align="center">Ignacio Villacis Quishpe</h1>
+<h1 align="center">Ignacio Daniel Villacis Quishpe</h1>
 
 <p align="center">
   <strong>DAM Student · Backend · Data · Systems</strong><br>
