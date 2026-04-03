@@ -157,7 +157,7 @@ Se trata de una aplicación Android nativa gamificada para explorar Vallecas med
   <a href="https://www.linkedin.com/in/ignacio-daniel-villacis-quishpe-843951318/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tu-correo@ejemplo.com">
+  <a href="mailto:ivillacis6002@gmail.com">
     <img src="https://img.shields.io/badge/Email-Escr%C3%ADbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
