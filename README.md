@@ -8,15 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ignacio-daniel-villacis-quishpe-843951318/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ignacio%20Villacis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ivillacis6002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ivillacis6002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
 ---
 
 <h2 align="center">⚡ Sobre mí</h2>
@@ -38,7 +29,11 @@ Mi objetivo es construir un perfil junior sólido, con repositorios limpios, bue
 <h2 align="center">🌌 Proyecto actual</h2>
 
 <p align="center">
-<b>StreetHunter</b> es mi TFG, desarrollado en equipo, y está enfocado en la gamificación del turismo local en Vallecas mediante una app Android nativa. La memoria del proyecto describe una mecánica de “Niebla de Guerra”, validación por GPS/geofencing, retos tipo quiz y ranking global, con arquitectura apoyada en <b>Firebase Authentication</b>, <b>Cloud Firestore</b> y <b>Google Maps</b>. :contentReference[oaicite:3]{index=3} :contentReference[oaicite:4]{index=4}
+<b>StreetHunter</b> es mi TFG, desarrollado en equipo, y está enfocado en la gamificación del turismo local en Vallecas mediante una app Android nativa.
+</p>
+
+<p align="center">
+Incluye una mecánica de <b>“Niebla de Guerra”</b>, validación por <b>GPS / geofencing</b>, retos tipo <b>quiz</b> y ranking global, con arquitectura apoyada en <b>Firebase Authentication</b>, <b>Cloud Firestore</b> y <b>Google Maps</b>.
 </p>
 
 <p align="center">
@@ -109,27 +104,38 @@ Selección de proyectos desarrollados a lo largo de <b>DAM</b> y elegidos por se
 <h2 align="center">🧠 Perfil técnico</h2>
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center"><b>Formación</b></td>
-    <td align="center">Finalizando DAM y reforzando una base sólida en software, datos, Android y sistemas.</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Intereses</b></td>
-    <td align="center">Backend, bases de datos, Linux, APIs, Android e integración de servicios.</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Forma de trabajar</b></td>
-    <td align="center">Repositorios limpios, estructura clara, documentación cuidada y mejora continua.</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Objetivo</b></td>
-    <td align="center">Seguir creciendo como desarrollador junior con perfil técnico serio y bien construido.</td>
-  </tr>
-</table>
-
+  <table>
+    <tr>
+      <td align="center"><b>Formación</b></td>
+      <td align="center">Finalizando DAM y reforzando una base sólida en software, datos, Android y sistemas.</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Intereses</b></td>
+      <td align="center">Backend, bases de datos, Linux, APIs, Android e integración de servicios.</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Forma de trabajar</b></td>
+      <td align="center">Repositorios limpios, estructura clara, documentación cuidada y mejora continua.</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Objetivo</b></td>
+      <td align="center">Seguir creciendo como desarrollador junior con perfil técnico serio y bien construido.</td>
+    </tr>
+  </table>
 </div>
+
+---
+
+<h2 align="center">🤝 Contacto</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ignacio-daniel-villacis-quishpe-843951318/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ignacio%20Villacis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ivillacis6002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ivillacis6002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
