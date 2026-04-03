@@ -4,16 +4,16 @@
 
 <p align="center">
   <a href="https://github.com/Nacho6002">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1400&color=00F0FF&center=true&vCenter=true&width=920&lines=DAM+Student+%C2%B7+Backend+%C2%B7+Data+%C2%B7+Linux;Technical+Intern+%C2%B7+Systems+%C2%B7+Asterisk+%C2%B7+PHP;Construyendo+StreetHunter+en+Android+con+Firebase;Escribiendo+c%C3%B3digo+limpio+y+sistemas+escalables" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1400&color=00F0FF&center=true&vCenter=true&width=980&lines=Backend+%C2%B7+Bases+de+datos+%C2%B7+Linux;Java+%C2%B7+Android+%C2%B7+Firebase+%C2%B7+APIs;VoIP+%C2%B7+Asterisk+%C2%B7+Sistemas;Construyendo+proyectos+reales+durante+DAM;C%C3%B3digo+limpio+%C2%B7+estructura+clara+%C2%B7+mejora+constante" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ignacio-daniel-villacis-quishpe-843951318/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/ignacio-daniel-villacis-quishpe-843951318/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ignacio%20Villacis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ivillacis6002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ivillacis6002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-ivillacis6002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -22,30 +22,28 @@
 <h2 align="center">⚡ Sobre mí</h2>
 
 <p align="center">
-Soy un desarrollador en formación centrado en la arquitectura <b>backend</b>, las <b>bases de datos</b> y la infraestructura de <b>sistemas Linux</b>. Me gusta entender cómo funcionan las cosas por debajo, desde el modelado relacional hasta el despliegue de un servidor en un VPS.
+Soy estudiante de <b>Desarrollo de Aplicaciones Multiplataforma (DAM)</b> con un perfil en crecimiento orientado a <b>backend</b>, <b>bases de datos</b>, <b>Linux</b> e <b>integración de servicios</b>.
 </p>
 
 <p align="center">
-Actualmente estoy finalizando el ciclo de <b>Desarrollo de Aplicaciones Multiplataforma (DAM)</b> y compaginándolo con mis prácticas técnicas, donde trabajo directamente con integración de servicios, comunicaciones (VoIP) y APIs. Prefiero que mi código hable por sí mismo: repositorios estructurados, buenas prácticas y una clara orientación a resolver problemas reales.
+Me gusta trabajar sobre proyectos que tengan una base técnica clara: aplicaciones en <b>Java</b>, persistencia de datos, consumo de <b>APIs</b>, desarrollo Android y entornos de sistemas donde el software no solo funcione, sino que también esté bien organizado y bien presentado.
+</p>
+
+<p align="center">
+Mi objetivo es construir un perfil junior sólido, con repositorios limpios, buena documentación y proyectos que reflejen evolución real a lo largo del ciclo.
 </p>
 
 ---
 
-<h2 align="center">🌌 Proyecto Actual: StreetHunter</h2>
+<h2 align="center">🌌 Proyecto actual</h2>
 
 <p align="center">
-Actualmente estoy desarrollando mi TFG llamado <b>StreetHunter</b> junto a mi compañero Antonio Muñoz Andrés[cite: 3]. Se trata de una aplicación móvil desarrollada de forma nativa para Android orientada a la gamificación del turismo local en Vallecas[cite: 14, 15].
+<b>StreetHunter</b> es mi TFG, desarrollado en equipo, y está enfocado en la gamificación del turismo local en Vallecas mediante una app Android nativa. La memoria del proyecto describe una mecánica de “Niebla de Guerra”, validación por GPS/geofencing, retos tipo quiz y ranking global, con arquitectura apoyada en <b>Firebase Authentication</b>, <b>Cloud Firestore</b> y <b>Google Maps</b>. :contentReference[oaicite:3]{index=3} :contentReference[oaicite:4]{index=4}
 </p>
 
-<div align="center">
-  <p><b>Características técnicas destacadas del proyecto:</b></p>
-  <ul style="display: inline-block; text-align: left;">
-    <li>Implementación de una mecánica de "Niebla de Guerra" apoyada en la API de Google Maps[cite: 16, 38].</li>
-    <li>Uso del hardware GPS del dispositivo para validar la ubicación real del usuario mediante Geofencing[cite: 18, 39].</li>
-    <li>Desbloqueo de retos de observación (tipo Quiz) in situ y registro del progreso en un ranking global[cite: 18, 19].</li>
-    <li>Arquitectura apoyada en Firebase (Authentication y Cloud Firestore) como Backend as a Service (BaaS)[cite: 95, 124].</li>
-  </ul>
-</div>
+<p align="center">
+<b>Base técnica:</b> Java · Android · Firebase · Google Maps · GPS / Geofencing
+</p>
 
 ---
 
@@ -53,23 +51,17 @@ Actualmente estoy desarrollando mi TFG llamado <b>StreetHunter</b> junto a mi co
 
 ### <p align="center">💻 Desarrollo y datos</p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,php,firebase,html,css,c&perline=8" alt="Desarrollo y datos" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,php,firebase,html,css,c&perline=8" alt="Desarrollo y datos" />
 </p>
 
 ### <p align="center">🛠️ Sistemas y herramientas</p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,bash,git,github&perline=7" alt="Sistemas y herramientas" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,bash,git,github&perline=7" alt="Sistemas y herramientas" />
 </p>
 
-### <p align="center">🧰 Entornos y software</p>
+### <p align="center">🧰 Entornos de desarrollo</p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,godot&perline=4" alt="Entornos y software" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,godot&perline=4" alt="Entornos de desarrollo" />
 </p>
 
 <p align="center">
@@ -81,35 +73,66 @@ Actualmente estoy desarrollando mi TFG llamado <b>StreetHunter</b> junto a mi co
 
 <h2 align="center">🏆 Proyectos destacados</h2>
 
+<p align="center">
+Selección de proyectos desarrollados a lo largo de <b>DAM</b> y elegidos por ser los que mejor representan mi evolución técnica.
+</p>
+
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>🚀 <a href="https://github.com/Nacho6002/DAM-II-Procesos-y-Servicios">Servicio REST FTP/Mail</a></h3>
-      <p>Microservicio backend centrado en transferencia de archivos y envío automatizado de correos.</p>
-      <p><b>Tech:</b> Java · Spring Boot · Docker · FTP</p>
+      <p>Microservicio backend orientado a transferencia de archivos y envío automatizado de correos.</p>
+      <p><b>Tecnologías:</b> Java · Spring Boot · Docker · FTP</p>
     </td>
     <td width="50%" valign="top" align="center">
       <h3>🏫 <a href="https://github.com/Nacho6002/DAM-II---Acceso-a-Datos">Gestión de Institutos</a></h3>
-      <p>Proyecto académico orientado a persistencia, relaciones y modelado relacional.</p>
-      <p><b>Tech:</b> Java · JPA / Hibernate · MySQL · Docker</p>
+      <p>Proyecto académico centrado en persistencia, entidades, relaciones y modelado relacional.</p>
+      <p><b>Tecnologías:</b> Java · JPA / Hibernate · MySQL · Docker</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>🌤️ <a href="https://github.com/Nacho6002/DAM-II-Programacion-multimedia-y-dispositivos-moviles">Weather App Android</a></h3>
-      <p>App nativa con consumo de API externa y arquitectura basada en componentes.</p>
-      <p><b>Tech:</b> Android · Retrofit · Room · LiveData</p>
+      <p>Aplicación móvil con consumo de API externa, almacenamiento local y arquitectura basada en componentes.</p>
+      <p><b>Tecnologías:</b> Android · Retrofit · Room · LiveData</p>
     </td>
     <td width="50%" valign="top" align="center">
       <h3>👾 <a href="https://github.com/Nacho6002/DAM-II-Programacion-de-Videojuegos">Insect Smasher</a></h3>
-      <p>Videojuego arcade 2D centrado en lógica, colisiones y gestión de estados.</p>
-      <p><b>Tech:</b> Godot Engine · GDScript</p>
+      <p>Videojuego arcade 2D enfocado en lógica de juego, colisiones y gestión de estados.</p>
+      <p><b>Tecnologías:</b> Godot · GDScript</p>
     </td>
   </tr>
 </table>
 
 ---
 
+<h2 align="center">🧠 Perfil técnico</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><b>Formación</b></td>
+    <td align="center">Finalizando DAM y reforzando una base sólida en software, datos, Android y sistemas.</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Intereses</b></td>
+    <td align="center">Backend, bases de datos, Linux, APIs, Android e integración de servicios.</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Forma de trabajar</b></td>
+    <td align="center">Repositorios limpios, estructura clara, documentación cuidada y mejora continua.</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Objetivo</b></td>
+    <td align="center">Seguir creciendo como desarrollador junior con perfil técnico serio y bien construido.</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 <p align="center">
-  <i>“Construyendo una base sólida en software y sistemas, paso a paso.”</i>
+  <i>“Construyendo una base sólida en backend, datos, Android y sistemas.”</i>
 </p>
