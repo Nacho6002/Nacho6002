@@ -10,23 +10,30 @@
 
 ## Actualmente
 
-| Área | Foco |
-|---|---|
-| **Backend** | Java, APIs REST, Spring Boot, lógica de servicios |
-| **Datos** | JDBC, JPA / Hibernate, MySQL, modelado relacional |
-| **Sistemas** | Linux, redes, administración básica, soporte técnico |
-| **Comunicaciones** | VoIP, Asterisk, integración y automatización |
-| **Herramientas** | Git, GitHub, Docker, Postman, Android Studio |
+### ⚙️ Backend
+Java, APIs REST, Spring Boot y lógica de servicios.
+
+### 🗄️ Datos
+JDBC, JPA / Hibernate, MySQL y modelado relacional.
+
+### 🐧 Sistemas
+Linux, redes, administración básica y soporte técnico.
+
+### 📡 Comunicaciones
+VoIP, Asterisk, integración y automatización.
+
+### 🧰 Herramientas
+Git, GitHub, Docker, Postman y Android Studio.
 
 ---
 
-## Lo que estoy construyendo
+## En construcción
 
-- un portafolio técnico más sólido y mejor documentado
-- proyectos académicos convertidos en repositorios presentables
-- experiencia práctica en sistemas y comunicaciones
-- herramientas e integraciones con PHP para administración técnica
-- una base fuerte en software, datos y servicios
+- 🧩 Portafolio técnico más sólido y mejor documentado
+- 📁 Proyectos académicos convertidos en repositorios presentables
+- 🖥️ Experiencia práctica en sistemas y comunicaciones
+- 🔌 Integraciones técnicas con PHP, APIs y servicios
+- 🚀 Base más fuerte en backend, datos y sistemas
 
 ---
 
@@ -46,15 +53,17 @@
 
 ---
 
-## Proyectos seleccionados
+## Proyectos destacados
 
-### Backend y datos
+### 🗄️ Backend y datos
 - **Agenda de Amigos** — Java, Swing, JDBC y MySQL  
 - **Gestión de Institutos** — Java, JPA / Hibernate y MySQL en Docker  
 - **Servicio REST con FTP y Email** — Spring Boot, Docker, FTP, Postman y correo  
 
-### Desarrollo móvil y otros
-- **Weather App Android** — Java, Room, Retrofit, LiveData y ViewModel  
+### 📱 Desarrollo móvil
+- **Weather App Android** — Java, Room, Retrofit, LiveData, ViewModel y Glide  
+
+### 🎮 Videojuegos
 - **Insect Smasher** — Godot, GDScript, niveles, puntuación y progresión  
 
 ---
