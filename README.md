@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/7.png" alt="Banner de Ignacio Villacis" width="100%" />
+  <img src="assets/banner-profile.png" alt="Banner de Ignacio Villacis" width="100%" />
 </p>
 
 <h1 align="center">¡Hola! 👋 Soy Ignacio Villacis</h1>
