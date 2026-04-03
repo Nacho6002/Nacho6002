@@ -1,9 +1,7 @@
 <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="64" height="64" rx="18" fill="#0B1220"/>
-  <rect x="14" y="18" width="36" height="28" rx="4" fill="white"/>
-  <path d="M18 24.5L32 35.5L46 24.5" stroke="#EA4335" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M18 24.5V40.5" stroke="#4285F4" stroke-width="3" stroke-linecap="round"/>
-  <path d="M46 24.5V40.5" stroke="#34A853" stroke-width="3" stroke-linecap="round"/>
-  <path d="M18 40.5L28 31.5" stroke="#FBBC05" stroke-width="3" stroke-linecap="round"/>
-  <path d="M46 40.5L36 31.5" stroke="#EA4335" stroke-width="3" stroke-linecap="round"/>
+  <rect x="15" y="19" width="34" height="26" rx="6" fill="#F8FAFC"/>
+  <path d="M19 24L32 33.5L45 24" stroke="#38BDF8" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M19 40L28 31.5" stroke="#94A3B8" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M45 40L36 31.5" stroke="#94A3B8" stroke-width="2.6" stroke-linecap="round"/>
 </svg>
