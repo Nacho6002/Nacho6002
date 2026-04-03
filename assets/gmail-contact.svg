@@ -1,23 +1,37 @@
 <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="10" y1="8" x2="54" y2="56" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#2563EB"/>
-      <stop offset="0.55" stop-color="#3B82F6"/>
-      <stop offset="1" stop-color="#60A5FA"/>
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#E2E8F0"/>
     </linearGradient>
-    <filter id="shadow" x="6" y="8" width="52" height="50" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="6" stdDeviation="4" flood-color="#0F172A" flood-opacity="0.35"/>
+    <linearGradient id="mLeft" x1="18" y1="22" x2="30" y2="34" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4285F4"/>
+      <stop offset="1" stop-color="#EA4335"/>
+    </linearGradient>
+    <linearGradient id="mRight" x1="34" y1="34" x2="46" y2="22" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#34A853"/>
+      <stop offset="1" stop-color="#FBBC05"/>
+    </linearGradient>
+    <filter id="shadow" x="6" y="6" width="52" height="52" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#0F172A" flood-opacity="0.18"/>
     </filter>
   </defs>
 
-  <rect width="64" height="64" rx="18" fill="url(#bg)"/>
-
   <g filter="url(#shadow)">
-    <rect x="13" y="17" width="38" height="30" rx="8" fill="#FFFFFF"/>
-    <path d="M18 23.5L32 34L46 23.5" stroke="#EA4335" stroke-width="4.4" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M18 23.5V41" stroke="#4285F4" stroke-width="3.1" stroke-linecap="round"/>
-    <path d="M46 23.5V41" stroke="#34A853" stroke-width="3.1" stroke-linecap="round"/>
-    <path d="M18 41L28.8 31.8" stroke="#FBBC05" stroke-width="3.1" stroke-linecap="round"/>
-    <path d="M46 41L35.2 31.8" stroke="#EA4335" stroke-width="3.1" stroke-linecap="round"/>
+    <rect width="64" height="64" rx="18" fill="url(#bg)"/>
+    <rect x="15" y="16" width="34" height="32" rx="8" fill="#FFFFFF"/>
+    
+    <!-- M principal -->
+    <path d="M18 42V23.5L32 34.5L46 23.5V42" stroke="#CBD5E1" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Trazo izquierdo de la M -->
+    <path d="M18 23.5L32 34.5" stroke="url(#mLeft)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Trazo derecho de la M -->
+    <path d="M46 23.5L32 34.5" stroke="url(#mRight)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Patas verticales -->
+    <path d="M18 23.5V39.5" stroke="#4285F4" stroke-width="3.2" stroke-linecap="round"/>
+    <path d="M46 23.5V39.5" stroke="#34A853" stroke-width="3.2" stroke-linecap="round"/>
   </g>
 </svg>
