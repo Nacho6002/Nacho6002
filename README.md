@@ -1,8 +1,12 @@
-<h1 align="center">👋 Hola, soy Ignacio</h1>
+<p align="center">
+  <img src="assets/banner-profile.png" alt="Banner de Ignacio Villacis" />
+</p>
+
+<h1 align="center">Ignacio Villacis Quishpe</h1>
 
 <p align="center">
   <strong>Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)</strong><br>
-  Madrid, España · Java · Bases de datos · Linux · Desarrollo de software
+  Madrid, España · Java · Bases de datos · Linux · Software & Systems
 </p>
 
 <p align="center">
@@ -13,23 +17,15 @@
 
 ---
 
-## 🚀 Sobre mí
+## Perfil
 
-Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en **Madrid, España** y actualmente estoy realizando **prácticas en el área tecnológica**, reforzando experiencia en entornos reales.
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con experiencia académica y práctica en **desarrollo de software**, **bases de datos**, **Linux**, **sistemas** y **soporte técnico**.
 
-Me interesa seguir creciendo en:
-
-- desarrollo de software
-- bases de datos
-- Linux y sistemas
-- soporte técnico
-- proyectos académicos y personales con enfoque práctico
-
-Mi objetivo es construir una base sólida como perfil junior, combinando formación, prácticas y proyectos que reflejen mi evolución técnica.
+Actualmente estoy realizando **prácticas en el área tecnológica**, mientras sigo construyendo un portafolio con proyectos que reflejan mi evolución en backend, persistencia, aplicaciones de escritorio, desarrollo móvil y lógica de sistemas.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Stack principal
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -41,62 +37,64 @@ Mi objetivo es construir una base sólida como perfil junior, combinando formaci
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-También sigo mejorando en:
-
+### Tecnologías y áreas en las que sigo creciendo
 - Programación orientada a objetos
 - JDBC y acceso a datos
 - JPA / Hibernate
 - diseño de bases de datos
+- consumo de APIs REST
+- desarrollo Android
+- Spring Boot
 - redes y administración básica de sistemas
-- desarrollo de interfaces y aplicaciones de escritorio
-- consumo de APIs y arquitectura por capas
 
 ---
 
-## 📂 Repositorios destacados
+## Foco actual
 
-### 🗄️ Acceso a Datos
-Proyectos centrados en persistencia, bases de datos relacionales y aplicaciones conectadas a MySQL.
+- reforzando mi base en **Java**, **bases de datos** y **backend**
+- mejorando la documentación y presentación de mis proyectos
+- consolidando experiencia práctica en **sistemas y comunicaciones**
+- construyendo un perfil técnico junior sólido y ordenado
 
+---
+
+## Proyectos destacados
+
+### Acceso a Datos
 - **Agenda de Amigos** → Java, Swing, JDBC y MySQL
 - **Gestión de Institutos** → Java, JPA / Hibernate y MySQL en Docker
 
-### ⚙️ Servicios y Procesos
-Proyecto backend orientado a comunicación entre servicios y automatización de operaciones.
-
+### Servicios y Procesos
 - **Servicio REST con FTP y Email** → Spring Boot, Docker, FTP, Postman y correo
 
-### 📱 Desarrollo móvil
-Proyecto Android con persistencia local y consumo de API externa.
-
+### Desarrollo móvil
 - **Weather App Android** → Java, Room, Retrofit, LiveData, ViewModel y Glide
 
-### 🎮 Videojuegos
-Proyecto de videojuego 2D desarrollado en Godot.
-
+### Videojuegos
 - **Insect Smasher** → Godot, GDScript, niveles, puntuación y progresión de dificultad
 
 ---
 
-## 🧩 En qué estoy trabajando
+## Forma de trabajar
 
-- mejorando mis repositorios académicos para convertirlos en un portafolio más sólido
-- reforzando mi base en Java, bases de datos y desarrollo backend
-- documentando mejor mis proyectos para que reflejen tanto la parte técnica como visual
-- ganando experiencia práctica mientras sigo formándome
+<p>
+  <img src="https://img.shields.io/badge/Aprendizaje-Continuo-7c3aed?style=for-the-badge" alt="Aprendizaje continuo" />
+  <img src="https://img.shields.io/badge/Resolución_de_problemas-2563eb?style=for-the-badge" alt="Resolución de problemas" />
+  <img src="https://img.shields.io/badge/Trabajo_en_equipo-16a34a?style=for-the-badge" alt="Trabajo en equipo" />
+  <img src="https://img.shields.io/badge/Adaptabilidad-f97316?style=for-the-badge" alt="Adaptabilidad" />
+</p>
 
----
-
-## 🎯 Objetivo actual
-
-Seguir aprendiendo, mejorar mis habilidades técnicas y crecer profesionalmente dentro del sector tecnológico, combinando formación, prácticas y proyectos reales.
+Me interesa construir proyectos que no solo funcionen, sino que también estén **bien organizados, documentados y presentados**.
 
 ---
 
-## 📬 Contacto
+## Objetivo
 
-- 📍 Madrid, España
-- 💼 LinkedIn
+Seguir creciendo dentro del sector tecnológico como perfil junior, combinando formación, práctica y proyectos que reflejen una base técnica cada vez más sólida.
 
-```html
-<a href="https://www.linkedin.com/in/ignacio-daniel-villacis-quishe-843951318/" target="_blank">Ver perfil de LinkedIn</a>
+---
+
+## Contacto
+
+- **Ubicación:** Madrid, España
+- **LinkedIn:** [Ver perfil](https://www.linkedin.com/in/ignacio-daniel-villacis-quishpe-843951318/)
