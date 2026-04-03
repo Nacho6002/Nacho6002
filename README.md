@@ -134,7 +134,7 @@ Selección de proyectos desarrollados a lo largo de <b>DAM</b> y elegidos por se
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ivillacis6002@gmail.com">
-    <img src="assets/gmail-contact.svg" alt="Gmail" width="54" />
+    <img src="assets/gmail-contact.svg" alt="Correo" width="54" />
   </a>
 </p>
 
