@@ -77,12 +77,12 @@ Actualmente estoy realizando **prácticas en el área tecnológica** y construye
   <br>
 
   - Programación orientada a objetos
-  - consumo de APIs REST
-  - desarrollo Android
-  - documentación y presentación de proyectos
-  - redes y administración básica de sistemas
-  - integración de servicios con PHP y paneles internos
-  - configuración de servicios como Asterisk
+  - Consumo de APIs REST
+  - Desarrollo Android
+  - Documentación y presentación de proyectos
+  - Redes y administración básica de sistemas
+  - Integración de servicios con PHP y paneles internos
+  - Configuración de servicios como Asterisk
 </details>
 
 ---
