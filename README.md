@@ -130,11 +130,15 @@ Selección de proyectos desarrollados a lo largo de <b>DAM</b> y elegidos por se
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ignacio-daniel-villacis-quishpe-843951318/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ignacio%20Villacis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:ivillacis6002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ivillacis6002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ivillacis6002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Escribirme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+</p>
+
+<p align="center">
+  <code>ivillacis6002@gmail.com</code>
 </p>
 
 ---
