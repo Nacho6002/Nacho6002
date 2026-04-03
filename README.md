@@ -5,23 +5,23 @@
 <h1 align="center">Ignacio Villacis Quishpe</h1>
 
 <p align="center">
-  <strong>Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)</strong><br>
-  Madrid, España · Java · Bases de datos · Linux · Software & Systems
+  <strong>Desarrollo de Aplicaciones Multiplataforma (DAM)</strong><br>
+  Madrid, España · Java · Bases de datos · Linux · Sistemas
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/DAM-Estudiante-orange?style=for-the-badge" alt="DAM" />
   <img src="https://img.shields.io/badge/Prácticas-Área_tecnológica-success?style=for-the-badge" alt="Prácticas" />
-  <img src="https://img.shields.io/badge/Enfoque-Software%20%7C%20Datos%20%7C%20Sistemas-blueviolet?style=for-the-badge" alt="Enfoque" />
+  <img src="https://img.shields.io/badge/Enfoque-Backend%20%7C%20Datos%20%7C%20Sistemas-blueviolet?style=for-the-badge" alt="Enfoque" />
 </p>
 
 ---
 
 ## Perfil
 
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con experiencia académica y práctica en **desarrollo de software**, **bases de datos**, **Linux**, **sistemas** y **soporte técnico**.
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con experiencia académica y práctica en **desarrollo de software**, **bases de datos**, **Linux**, **sistemas**, **soporte técnico** e integración de servicios.
 
-Actualmente estoy realizando **prácticas en el área tecnológica**, mientras sigo construyendo un portafolio con proyectos que reflejan mi evolución en backend, persistencia, aplicaciones de escritorio, desarrollo móvil y lógica de sistemas.
+Actualmente estoy realizando **prácticas en el área tecnológica**, mientras sigo construyendo un portafolio con proyectos que reflejan mi evolución en backend, persistencia, aplicaciones de escritorio, desarrollo móvil, videojuegos y lógica de sistemas.
 
 ---
 
@@ -35,6 +35,7 @@ Actualmente estoy realizando **prácticas en el área tecnológica**, mientras s
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
 </p>
 
 ### Tecnologías y áreas en las que sigo creciendo
@@ -46,14 +47,18 @@ Actualmente estoy realizando **prácticas en el área tecnológica**, mientras s
 - desarrollo Android
 - Spring Boot
 - redes y administración básica de sistemas
+- VoIP, Asterisk y servicios de comunicaciones
+- integración de servicios con PHP y paneles internos
 
 ---
 
-## Foco actual
+## En lo que estoy trabajando
 
 - reforzando mi base en **Java**, **bases de datos** y **backend**
 - mejorando la documentación y presentación de mis proyectos
-- consolidando experiencia práctica en **sistemas y comunicaciones**
+- trabajando en entornos de **sistemas y comunicaciones**
+- configurando servicios como **Asterisk**
+- desarrollando herramientas auxiliares en **PHP** para administración y consulta de información técnica
 - construyendo un perfil técnico junior sólido y ordenado
 
 ---
@@ -84,13 +89,13 @@ Actualmente estoy realizando **prácticas en el área tecnológica**, mientras s
   <img src="https://img.shields.io/badge/Adaptabilidad-f97316?style=for-the-badge" alt="Adaptabilidad" />
 </p>
 
-Me interesa construir proyectos que no solo funcionen, sino que también estén **bien organizados, documentados y presentados**.
+Me interesa construir proyectos que no solo funcionen, sino que también estén **bien organizados, documentados y presentados**, con una base técnica sólida y una evolución visible.
 
 ---
 
 ## Objetivo
 
-Seguir creciendo dentro del sector tecnológico como perfil junior, combinando formación, práctica y proyectos que reflejen una base técnica cada vez más sólida.
+Seguir creciendo dentro del sector tecnológico como perfil junior, combinando formación, práctica y proyectos que reflejen una base cada vez más fuerte en desarrollo, datos y sistemas.
 
 ---
 
